@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Jprimero15/android_device_samsung_hltetmo" path="device/samsung/hltetmo" remote="github" revision="liquid" />
+  <project name="Jprimero15/android_device_samsung_hlte" path="device/samsung/hlte" remote="github" revision="liquid" />
+  <project name="Jprimero15/android_device_samsung_hltechn" path="device/samsung/hltechn" remote="github" revision="liquid" />
+  <project name="Jprimero15/android_device_samsung_hlte-common" path="device/samsung/hlte-common" remote="github" revision="liquid" />
+  <project name="Jprimero15/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="lineage-15.1" />
+  <project name="Jprimero15/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-15.1" />
+  <project name="Jprimero15/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revision="liquid" />
+  <project name="Jprimero15/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
+  <project name="Jprimero15/proprietary_vendor_samsung_hltexxx" path="vendor/samsung" remote="github" revision="lineage-15.1" />
+  <project name="AospExtended/platform_packages_apps_Calendar" path="packages/apps/Calendar" remote="github" revision="8.x" />
+  <project name="AospExtended/platform_packages_apps_DeskClock" path="packages/apps/DeskClock" remote="github" revision="8.1.x" />
+</manifest>

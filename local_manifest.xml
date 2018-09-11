@@ -3,6 +3,7 @@
   <project name="Jprimero15/android_device_samsung_hltetmo" path="device/samsung/hltetmo" remote="github" revision="dot-o" />
   <project name="Jprimero15/android_device_samsung_hlte" path="device/samsung/hlte" remote="github" revision="dot-o" />
   <project name="Jprimero15/android_device_samsung_hltechn" path="device/samsung/hltechn" remote="github" revision="dot-o" />
+  <project name="Jprimero15/android_device_samsung_hltekor" path="device/samsung/hltekor" remote="github" revision="lineage-15.1" />
   <project name="Jprimero15/android_device_samsung_hlte-common" path="device/samsung/hlte-common" remote="github" revision="lineage-15.1" />
   <project name="Jprimero15/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="lineage-15.1" />
   <project name="Jprimero15/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-15.1" />

@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<!--  <project name="haggertk/cm_build_stuff" path="haggertk" remote="github" >
-    <linkfile src="picks.sh" dest="picks.sh" />
-    <linkfile src="local_manifest.xml" dest=".repo/local_manifests/z00_local_manifest.xml" />
-    <linkfile src="local_devices.xml" dest=".repo/local_manifests/z01_local_devices.xml" />
-    <linkfile src="vendor.xml" dest=".repo/local_manifests/z02_vendor.xml" />
-  </project>
-
-   LineageOS Infrastructure Stuff
-
-  <project name="lineageos-infra/auth" path="lineage/infra/auth" remote="github" revision="master" />
-  <project name="lineageos-infra/gerrit-config" path="lineage/infra/gerrit-config" remote="github" revision="master" /> 
- Temp stuff until it gets into a real manifest -->
-
   <project name="Jprimero15/android_device_samsung_hlte" path="device/samsung/hlte" remote="github" revision="8.1.x" />
   <project name="Jprimero15/android_device_samsung_hltechn" path="device/samsung/hltechn" remote="github"  revision="8.1.x" />
   <project name="Jprimero15/android_device_samsung_hltetmo" path="device/samsung/hltetmo" remote="github" revision="8.1.x" />
@@ -23,18 +10,5 @@
   <project name="LineageOS/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
-
-  <project name="AospExtended/platform_device_qcom_sepolicy-legacy" path="device/qcom/sepolicy-legacy" remote="github" revision="9.x" />
-
- <!-- Hardware -->
- <!-- <project name="android_hardware_qcom_audio" path="hardware/qcom/audio/default" remote="los" />-->
-  <!-- <project name="android_hardware_qcom_bt" path="hardware/qcom/bt" remote="lineage" />
-  <project name="android_hardware_qcom_camera" path="hardware/qcom/camera" remote="lineage" />-->
- <!-- <project name="android_hardware_qcom_display" path="hardware/qcom/display" remote="los" />-->
- <!-- <project path="hardware/qcom/fm" name="LineageOS/android_hardware_qcom_fm" groups="qcom,qcom_fm" />-->
-  <!--<project name="android_hardware_qcom_media" path="hardware/qcom/media" remote="los" />-->
- <!-- <project name="Jprimero15/android_hardware_qcom_audio"   path="hardware/qcom/audio-caf/msm8974"   remote="github" revision="pie" />
-  <project name="Jprimero15/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8974" remote="github" revision="pie" />
-  <project name="Jprimero15/android_hardware_qcom_media"   path="hardware/qcom/media-caf/msm8974" remote="github" revision="pie" />-->
 </manifest>
 
